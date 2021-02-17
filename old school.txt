@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>old schools preveiw</title>
+</head>
+<body>
+<img src="photo_2021-02-16_20-18-26.jpg">
+</body>
+</html>
